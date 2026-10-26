@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is the main idea of this document?",
+    "ground_truth": "short answer yahan likho",
+    "relevant_chunk_ids": ["chunk_0", "chunk_1"]
+  },
+  {
+    "question": "Doosra sawal",
+    "ground_truth": "uska answer",
+    "relevant_chunk_ids": ["chunk_5"]
+  }
+]

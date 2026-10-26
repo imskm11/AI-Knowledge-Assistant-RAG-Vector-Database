@@ -1,0 +1,92 @@
+{
+  "test_cases": [
+    {
+      "id": 1,
+      "question": "Who is listed as the prepared by in the document?",
+      "expected_answer": "Alex Johnson",
+      "expected_source_pages": [
+        1
+      ],
+      "answerable": true
+    },
+    {
+      "id": 2,
+      "question": "What is the contact URL provided in the document?",
+      "expected_answer": "https://sample-files.com+123-456-7890",
+      "expected_source_pages": [
+        1
+      ],
+      "answerable": true
+    },
+    {
+      "id": 3,
+      "question": "What is the market size mentioned in the Sales Projections section?",
+      "expected_answer": "$50 Billion",
+      "expected_source_pages": [
+        9
+      ],
+      "answerable": true
+    },
+    {
+      "id": 4,
+      "question": "What is the user satisfaction percentage mentioned in the Sales Projections section?",
+      "expected_answer": "85%",
+      "expected_source_pages": [
+        9
+      ],
+      "answerable": true
+    },
+    {
+      "id": 5,
+      "question": "What is the growth rate mentioned in the Sales Projections section?",
+      "expected_answer": "10%",
+      "expected_source_pages": [
+        9
+      ],
+      "answerable": true
+    },
+    {
+      "id": 6,
+      "question": "List all the sections included in the Table of Contents.",
+      "expected_answer": "Executive Summary, Introduction, Product Overview, Market Analysis, Competitor Analysis, Marketing Strategy, Sales Projections, Launch Timeline",
+      "expected_source_pages": [
+        2
+      ],
+      "answerable": true
+    },
+    {
+      "id": 7,
+      "question": "What is the product name and the market size mentioned in the Sales Projections section?",
+      "expected_answer": "Product name: SmartHome Hub; Market size: $50 Billion",
+      "expected_source_pages": [
+        1,
+        9
+      ],
+      "answerable": true
+    },
+    {
+      "id": 8,
+      "question": "What is the company name and the user satisfaction percentage?",
+      "expected_answer": "Company: SmartHome Hub, Inc; User satisfaction: 85%",
+      "expected_source_pages": [
+        1,
+        9
+      ],
+      "answerable": true
+    },
+    {
+      "id": 9,
+      "question": "What is the projected sales for the first three years?",
+      "expected_answer": "Not available in the provided document.",
+      "expected_source_pages": [],
+      "answerable": false
+    },
+    {
+      "id": 10,
+      "question": "What is the current market share?",
+      "expected_answer": "Not available in the provided document.",
+      "expected_source_pages": [],
+      "answerable": false
+    }
+  ]
+}

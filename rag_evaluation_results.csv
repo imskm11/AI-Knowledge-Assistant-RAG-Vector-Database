@@ -1,0 +1,493 @@
+id,question,expected_answer,actual_answer,answerable,retrieved_chunks,retrieved_context,error
+1,Who is listed as the prepared by in the document?,Alex Johnson,I don't have enough information in the uploaded documents to answer that.,True,4,"Product Overview
+Nam quis porta ex. Donec porttitor at sem nec
+sollicitudin. Ut vel commodo tortor, sagittis egestas
+nisl. Donec quam mauris, tristique non tempus vitae,
+ornare sed mauris. Etiam blandit tempor metus, at
+vehicula nisi. Maecenas suscipit vulputate varius.
+Integer et justo velus.
+Ut in ipsum ac risus.
+Maecenas iaculis.
+Ut nec mauris vel.
+Tellus accumsan.
+Key Features
+Integer et justo velus.
+Ut in ipsum ac risus.
+Maecenas iaculis.
+Ut nec mauris vel.
+Tellus accumsan.
+Key Features
+
+Product Overview
+Nam quis porta ex. Donec porttitor at sem nec
+sollicitudin. Ut vel commodo tortor, sagittis egestas
+nisl. Donec quam mauris, tristique non tempus vitae,
+ornare sed mauris. Etiam blandit tempor metus, at
+vehicula nisi. Maecenas suscipit vulputate varius.
+Integer et justo velus.
+Ut in ipsum ac risus.
+Maecenas iaculis.
+Ut nec mauris vel.
+Tellus accumsan.
+Key Features
+Integer et justo velus.
+Ut in ipsum ac risus.
+Maecenas iaculis.
+Ut nec mauris vel.
+Tellus accumsan.
+Key Features
+
+Launch Timeline
+Vivamus ac nunc vitae nulla molestie sodales. Proin sit
+amet rhoncus lacus. Cras non erat imperdiet sapien
+porttitor aliquam nec ut velit.
+
+Launch Timeline
+Vivamus ac nunc vitae nulla molestie sodales. Proin sit
+amet rhoncus lacus. Cras non erat imperdiet sapien
+porttitor aliquam nec ut velit.",
+2,What is the contact URL provided in the document?,https://sample-files.com+123-456-7890,"The contact URL provided in the document is:
+
+**https://sample-files.com**",True,4,"SmartHome Hub
+SmartHome Hub, Inc
+Alex Johnson
+Prepared By
+https://sample-files.com+123-456-7890
+Product Launch Strategy
+
+SmartHome Hub
+SmartHome Hub, Inc
+Alex Johnson
+Prepared By
+https://sample-files.com+123-456-7890
+Product Launch Strategy
+
+Product Overview
+Nam quis porta ex. Donec porttitor at sem nec
+sollicitudin. Ut vel commodo tortor, sagittis egestas
+nisl. Donec quam mauris, tristique non tempus vitae,
+ornare sed mauris. Etiam blandit tempor metus, at
+vehicula nisi. Maecenas suscipit vulputate varius.
+Integer et justo velus.
+Ut in ipsum ac risus.
+Maecenas iaculis.
+Ut nec mauris vel.
+Tellus accumsan.
+Key Features
+Integer et justo velus.
+Ut in ipsum ac risus.
+Maecenas iaculis.
+Ut nec mauris vel.
+Tellus accumsan.
+Key Features
+
+Product Overview
+Nam quis porta ex. Donec porttitor at sem nec
+sollicitudin. Ut vel commodo tortor, sagittis egestas
+nisl. Donec quam mauris, tristique non tempus vitae,
+ornare sed mauris. Etiam blandit tempor metus, at
+vehicula nisi. Maecenas suscipit vulputate varius.
+Integer et justo velus.
+Ut in ipsum ac risus.
+Maecenas iaculis.
+Ut nec mauris vel.
+Tellus accumsan.
+Key Features
+Integer et justo velus.
+Ut in ipsum ac risus.
+Maecenas iaculis.
+Ut nec mauris vel.
+Tellus accumsan.
+Key Features",
+3,What is the market size mentioned in the Sales Projections section?,$50 Billion,$50 Billion,True,4,"Sales Projections
+Tristique non tempus vitae, ornare sed mauris. Etiam
+blandit tempor metus, at vehicula nisi. Maecenas
+suscipit vulputate varius.
+Metric Sales
+Market Size $50 Billion
+User Satisfaction 85%
+Growth Rate 10%
+Series 1 Series 2
+Item 1 Item 2 Item 3
+0
+5
+10
+15
+20
+
+Sales Projections
+Tristique non tempus vitae, ornare sed mauris. Etiam
+blandit tempor metus, at vehicula nisi. Maecenas
+suscipit vulputate varius.
+Metric Sales
+Market Size $50 Billion
+User Satisfaction 85%
+Growth Rate 10%
+Series 1 Series 2
+Item 1 Item 2 Item 3
+0
+5
+10
+15
+20
+
+Table of Contents
+1. Executive Summary
+2. Introduction
+3. Product Overview
+4. Market Analysis
+5. Competitor Analysis
+6. Marketing Strategy
+7. Sales Projections
+8. Launch Timeline
+
+Table of Contents
+1. Executive Summary
+2. Introduction
+3. Product Overview
+4. Market Analysis
+5. Competitor Analysis
+6. Marketing Strategy
+7. Sales Projections
+8. Launch Timeline",
+4,What is the user satisfaction percentage mentioned in the Sales Projections section?,85%,The user satisfaction percentage mentioned in the Sales Projections section is **85%**.,True,4,"Sales Projections
+Tristique non tempus vitae, ornare sed mauris. Etiam
+blandit tempor metus, at vehicula nisi. Maecenas
+suscipit vulputate varius.
+Metric Sales
+Market Size $50 Billion
+User Satisfaction 85%
+Growth Rate 10%
+Series 1 Series 2
+Item 1 Item 2 Item 3
+0
+5
+10
+15
+20
+
+Sales Projections
+Tristique non tempus vitae, ornare sed mauris. Etiam
+blandit tempor metus, at vehicula nisi. Maecenas
+suscipit vulputate varius.
+Metric Sales
+Market Size $50 Billion
+User Satisfaction 85%
+Growth Rate 10%
+Series 1 Series 2
+Item 1 Item 2 Item 3
+0
+5
+10
+15
+20
+
+Table of Contents
+1. Executive Summary
+2. Introduction
+3. Product Overview
+4. Market Analysis
+5. Competitor Analysis
+6. Marketing Strategy
+7. Sales Projections
+8. Launch Timeline
+
+Table of Contents
+1. Executive Summary
+2. Introduction
+3. Product Overview
+4. Market Analysis
+5. Competitor Analysis
+6. Marketing Strategy
+7. Sales Projections
+8. Launch Timeline",
+5,What is the growth rate mentioned in the Sales Projections section?,10%,The growth rate mentioned in the Sales Projections section is **10%**.,True,4,"Sales Projections
+Tristique non tempus vitae, ornare sed mauris. Etiam
+blandit tempor metus, at vehicula nisi. Maecenas
+suscipit vulputate varius.
+Metric Sales
+Market Size $50 Billion
+User Satisfaction 85%
+Growth Rate 10%
+Series 1 Series 2
+Item 1 Item 2 Item 3
+0
+5
+10
+15
+20
+
+Sales Projections
+Tristique non tempus vitae, ornare sed mauris. Etiam
+blandit tempor metus, at vehicula nisi. Maecenas
+suscipit vulputate varius.
+Metric Sales
+Market Size $50 Billion
+User Satisfaction 85%
+Growth Rate 10%
+Series 1 Series 2
+Item 1 Item 2 Item 3
+0
+5
+10
+15
+20
+
+Table of Contents
+1. Executive Summary
+2. Introduction
+3. Product Overview
+4. Market Analysis
+5. Competitor Analysis
+6. Marketing Strategy
+7. Sales Projections
+8. Launch Timeline
+
+Table of Contents
+1. Executive Summary
+2. Introduction
+3. Product Overview
+4. Market Analysis
+5. Competitor Analysis
+6. Marketing Strategy
+7. Sales Projections
+8. Launch Timeline",
+6,List all the sections included in the Table of Contents.,"Executive Summary, Introduction, Product Overview, Market Analysis, Competitor Analysis, Marketing Strategy, Sales Projections, Launch Timeline","- Product Overview  
+- Key Features  
+- Launch Timeline",True,4,"Product Overview
+Nam quis porta ex. Donec porttitor at sem nec
+sollicitudin. Ut vel commodo tortor, sagittis egestas
+nisl. Donec quam mauris, tristique non tempus vitae,
+ornare sed mauris. Etiam blandit tempor metus, at
+vehicula nisi. Maecenas suscipit vulputate varius.
+Integer et justo velus.
+Ut in ipsum ac risus.
+Maecenas iaculis.
+Ut nec mauris vel.
+Tellus accumsan.
+Key Features
+Integer et justo velus.
+Ut in ipsum ac risus.
+Maecenas iaculis.
+Ut nec mauris vel.
+Tellus accumsan.
+Key Features
+
+Product Overview
+Nam quis porta ex. Donec porttitor at sem nec
+sollicitudin. Ut vel commodo tortor, sagittis egestas
+nisl. Donec quam mauris, tristique non tempus vitae,
+ornare sed mauris. Etiam blandit tempor metus, at
+vehicula nisi. Maecenas suscipit vulputate varius.
+Integer et justo velus.
+Ut in ipsum ac risus.
+Maecenas iaculis.
+Ut nec mauris vel.
+Tellus accumsan.
+Key Features
+Integer et justo velus.
+Ut in ipsum ac risus.
+Maecenas iaculis.
+Ut nec mauris vel.
+Tellus accumsan.
+Key Features
+
+Launch Timeline
+Vivamus ac nunc vitae nulla molestie sodales. Proin sit
+amet rhoncus lacus. Cras non erat imperdiet sapien
+porttitor aliquam nec ut velit.
+
+Launch Timeline
+Vivamus ac nunc vitae nulla molestie sodales. Proin sit
+amet rhoncus lacus. Cras non erat imperdiet sapien
+porttitor aliquam nec ut velit.",
+7,What is the product name and the market size mentioned in the Sales Projections section?,Product name: SmartHome Hub; Market size: $50 Billion,I don't have enough information in the uploaded documents to answer that.,True,4,"Sales Projections
+Tristique non tempus vitae, ornare sed mauris. Etiam
+blandit tempor metus, at vehicula nisi. Maecenas
+suscipit vulputate varius.
+Metric Sales
+Market Size $50 Billion
+User Satisfaction 85%
+Growth Rate 10%
+Series 1 Series 2
+Item 1 Item 2 Item 3
+0
+5
+10
+15
+20
+
+Sales Projections
+Tristique non tempus vitae, ornare sed mauris. Etiam
+blandit tempor metus, at vehicula nisi. Maecenas
+suscipit vulputate varius.
+Metric Sales
+Market Size $50 Billion
+User Satisfaction 85%
+Growth Rate 10%
+Series 1 Series 2
+Item 1 Item 2 Item 3
+0
+5
+10
+15
+20
+
+Table of Contents
+1. Executive Summary
+2. Introduction
+3. Product Overview
+4. Market Analysis
+5. Competitor Analysis
+6. Marketing Strategy
+7. Sales Projections
+8. Launch Timeline
+
+Table of Contents
+1. Executive Summary
+2. Introduction
+3. Product Overview
+4. Market Analysis
+5. Competitor Analysis
+6. Marketing Strategy
+7. Sales Projections
+8. Launch Timeline",
+8,What is the company name and the user satisfaction percentage?,"Company: SmartHome Hub, Inc; User satisfaction: 85%",I don't have enough information in the uploaded documents to answer that.,True,4,"Sales Projections
+Tristique non tempus vitae, ornare sed mauris. Etiam
+blandit tempor metus, at vehicula nisi. Maecenas
+suscipit vulputate varius.
+Metric Sales
+Market Size $50 Billion
+User Satisfaction 85%
+Growth Rate 10%
+Series 1 Series 2
+Item 1 Item 2 Item 3
+0
+5
+10
+15
+20
+
+Sales Projections
+Tristique non tempus vitae, ornare sed mauris. Etiam
+blandit tempor metus, at vehicula nisi. Maecenas
+suscipit vulputate varius.
+Metric Sales
+Market Size $50 Billion
+User Satisfaction 85%
+Growth Rate 10%
+Series 1 Series 2
+Item 1 Item 2 Item 3
+0
+5
+10
+15
+20
+
+Table of Contents
+1. Executive Summary
+2. Introduction
+3. Product Overview
+4. Market Analysis
+5. Competitor Analysis
+6. Marketing Strategy
+7. Sales Projections
+8. Launch Timeline
+
+Table of Contents
+1. Executive Summary
+2. Introduction
+3. Product Overview
+4. Market Analysis
+5. Competitor Analysis
+6. Marketing Strategy
+7. Sales Projections
+8. Launch Timeline",
+9,What is the projected sales for the first three years?,Not available in the provided document.,I don't have enough information in the uploaded documents to answer that.,False,4,"Sales Projections
+Tristique non tempus vitae, ornare sed mauris. Etiam
+blandit tempor metus, at vehicula nisi. Maecenas
+suscipit vulputate varius.
+Metric Sales
+Market Size $50 Billion
+User Satisfaction 85%
+Growth Rate 10%
+Series 1 Series 2
+Item 1 Item 2 Item 3
+0
+5
+10
+15
+20
+
+Sales Projections
+Tristique non tempus vitae, ornare sed mauris. Etiam
+blandit tempor metus, at vehicula nisi. Maecenas
+suscipit vulputate varius.
+Metric Sales
+Market Size $50 Billion
+User Satisfaction 85%
+Growth Rate 10%
+Series 1 Series 2
+Item 1 Item 2 Item 3
+0
+5
+10
+15
+20
+
+Table of Contents
+1. Executive Summary
+2. Introduction
+3. Product Overview
+4. Market Analysis
+5. Competitor Analysis
+6. Marketing Strategy
+7. Sales Projections
+8. Launch Timeline
+
+Table of Contents
+1. Executive Summary
+2. Introduction
+3. Product Overview
+4. Market Analysis
+5. Competitor Analysis
+6. Marketing Strategy
+7. Sales Projections
+8. Launch Timeline",
+10,What is the current market share?,Not available in the provided document.,I don't have enough information in the uploaded documents to answer that.,False,4,"Market Analysis
+Nam quis porta ex. Donec porttitor at sem nec
+sollicitudin. Ut vel commodo tortor, sagittis egestas
+nisl. Donec quam mauris, tristique non tempus vitae,
+ornare sed mauris. Etiam blandit tempor metus, at
+vehicula nisi. Maecenas suscipit vulputate varius.
+Current market share Projected sales for the
+first three years
+
+Market Analysis
+Nam quis porta ex. Donec porttitor at sem nec
+sollicitudin. Ut vel commodo tortor, sagittis egestas
+nisl. Donec quam mauris, tristique non tempus vitae,
+ornare sed mauris. Etiam blandit tempor metus, at
+vehicula nisi. Maecenas suscipit vulputate varius.
+Current market share Projected sales for the
+first three years
+
+Table of Contents
+1. Executive Summary
+2. Introduction
+3. Product Overview
+4. Market Analysis
+5. Competitor Analysis
+6. Marketing Strategy
+7. Sales Projections
+8. Launch Timeline
+
+Table of Contents
+1. Executive Summary
+2. Introduction
+3. Product Overview
+4. Market Analysis
+5. Competitor Analysis
+6. Marketing Strategy
+7. Sales Projections
+8. Launch Timeline",
